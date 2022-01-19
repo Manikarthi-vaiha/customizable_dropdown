@@ -24,6 +24,9 @@ import 'package:customizable_dropdown/customizable_dropdown.dart';
  
  Instead of using a `DropdownButton` create a `CustomDropdown` Widget:
 
+ Result: 
+ 
+ ![In action](https://github.com/Manikarthi-vaiha/customizable_dropdown/blob/master/example_file.gif)
 
  ```Dart
    List<String> dropdownList = [
